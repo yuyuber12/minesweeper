@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\yonig\\\\OneDrive\\\\project\\\\minesweeper\" -Recurse -File)",
-      "Bash(Select-Object -ExpandProperty FullName)",
-      "Bash(python3 -c ' *)"
-    ]
-  }
-}
